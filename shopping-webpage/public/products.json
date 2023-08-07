@@ -1,0 +1,73 @@
+[
+    {
+      "id": 0,
+      "name": "Blue T-shirt",
+      "material": "Cotton",
+      "price": 20.99,
+      "comments": []
+    },
+    {
+      "id": 1,
+      "name": "Black Jeans",
+      "material": "Denim",
+      "price": 39.99,
+      "comments": []
+    },
+    {
+      "id": 2,
+      "name": "Grey Hoodie",
+      "material": "Polyester",
+      "price": 29.99,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "name": "Red Dress",
+      "material": "Silk",
+      "price": 55.99,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "name": "Green Shorts",
+      "material": "Cotton",
+      "price": 18.99,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "name": "White Blouse",
+      "material": "Linen",
+      "price": 25.99,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "name": "Brown Leather Jacket",
+      "material": "Leather",
+      "price": 89.99,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "name": "Pink Skirt",
+      "material": "Chiffon",
+      "price": 34.99,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "name": "Yellow Polo Shirt",
+      "material": "Cotton",
+      "price": 22.99,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "name": "Orange Sweatpants",
+      "material": "Polyester",
+      "price": 27.99,
+      "comments": []
+    }
+  ]
+  
