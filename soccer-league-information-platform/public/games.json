@@ -1,0 +1,110 @@
+[
+  {
+    "firstTeam": {
+      "goalCount": 2,
+      "goalsScoredBy": ["Player A", "Player B"],
+      "teamName": "Galatasaray"
+    },
+    "secondTeam": {
+      "goalCount": 1,
+      "goalsScoredBy": ["Player X"],
+      "teamName": "Fenerbahçe"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 3,
+      "goalsScoredBy": ["Player C", "Player D", "Player E"],
+      "teamName": "Beşiktaş"
+    },
+    "secondTeam": {
+      "goalCount": 2,
+      "goalsScoredBy": ["Player Y", "Player Z"],
+      "teamName": "Trabzonspor"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 1,
+      "goalsScoredBy": ["Player F"],
+      "teamName": "Sivasspor"
+    },
+    "secondTeam": {
+      "goalCount": 0,
+      "goalsScoredBy": [],
+      "teamName": "Antalyaspor"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 2,
+      "goalsScoredBy": ["Player G", "Player H"],
+      "teamName": "Konyaspor"
+    },
+    "secondTeam": {
+      "goalCount": 2,
+      "goalsScoredBy": ["Player P", "Player Q"],
+      "teamName": "Göztepe"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 4,
+      "goalsScoredBy": ["Player I", "Player J", "Player K", "Player L"],
+      "teamName": "Yeni Malatyaspor"
+    },
+    "secondTeam": {
+      "goalCount": 3,
+      "goalsScoredBy": ["Player R", "Player S", "Player T"],
+      "teamName": "Rizespor"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 1,
+      "goalsScoredBy": ["Player M"],
+      "teamName": "Ankaragücü"
+    },
+    "secondTeam": {
+      "goalCount": 1,
+      "goalsScoredBy": ["Player U"],
+      "teamName": "Gençlerbirliği"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 0,
+      "goalsScoredBy": [],
+      "teamName": "Gaziantep FK"
+    },
+    "secondTeam": {
+      "goalCount": 3,
+      "goalsScoredBy": ["Player V", "Player W", "Player X"],
+      "teamName": "Kayserispor"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 2,
+      "goalsScoredBy": ["Player N", "Player O"],
+      "teamName": "Denizlispor"
+    },
+    "secondTeam": {
+      "goalCount": 2,
+      "goalsScoredBy": ["Player Y", "Player Z"],
+      "teamName": "Hatayspor"
+    }
+  },
+  {
+    "firstTeam": {
+      "goalCount": 3,
+      "goalsScoredBy": ["Player P", "Player Q", "Player R"],
+      "teamName": "Alanyaspor"
+    },
+    "secondTeam": {
+      "goalCount": 1,
+      "goalsScoredBy": ["Player A"],
+      "teamName": "Kasımpaşa"
+    }
+  }
+]

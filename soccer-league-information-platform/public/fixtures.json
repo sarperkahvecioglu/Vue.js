@@ -1,0 +1,44 @@
+[
+  {
+    
+    "matches": [
+      { "firstTeam": "Galatasaray", "secondTeam": "Fenerbahçe" },
+      { "firstTeam": "Beşiktaş", "secondTeam": "Trabzonspor" },
+      { "firstTeam": "Başakşehir", "secondTeam": "Sivasspor" },
+      { "firstTeam": "Göztepe", "secondTeam": "Antalyaspor" },
+      { "firstTeam": "Gaziantep FK", "secondTeam": "Alanyaspor" },
+      { "firstTeam": "Konyaspor", "secondTeam": "Ankaragücü" },
+      { "firstTeam": "Kayserispor", "secondTeam": "Rizespor" },
+      { "firstTeam": "Denizlispor", "secondTeam": "Malatyaspor" },
+      { "firstTeam": "Gençlerbirliği", "secondTeam": "Kasımpaşa" }
+    ]
+  },
+  {
+    
+    "matches": [
+      { "firstTeam": "Fenerbahçe", "secondTeam": "Beşiktaş" },
+      { "firstTeam": "Trabzonspor", "secondTeam": "Galatasaray" },
+      { "firstTeam": "Sivasspor", "secondTeam": "Göztepe" },
+      { "firstTeam": "Antalyaspor", "secondTeam": "Başakşehir" },
+      { "firstTeam": "Alanyaspor", "secondTeam": "Konyaspor" },
+      { "firstTeam": "Ankaragücü", "secondTeam": "Gaziantep FK" },
+      { "firstTeam": "Rizespor", "secondTeam": "Denizlispor" },
+      { "firstTeam": "Malatyaspor", "secondTeam": "Kayserispor" },
+      { "firstTeam": "Kasımpaşa", "secondTeam": "Gençlerbirliği" }
+    ]
+  },
+  {
+    
+    "matches": [
+      { "firstTeam": "Galatasaray", "secondTeam": "Trabzonspor" },
+      { "firstTeam": "Beşiktaş", "secondTeam": "Fenerbahçe" },
+      { "firstTeam": "Başakşehir", "secondTeam": "Göztepe" },
+      { "firstTeam": "Gaziantep FK", "secondTeam": "Antalyaspor" },
+      { "firstTeam": "Konyaspor", "secondTeam": "Sivasspor" },
+      { "firstTeam": "Kayserispor", "secondTeam": "Ankaragücü" },
+      { "firstTeam": "Denizlispor", "secondTeam": "Rizespor" },
+      { "firstTeam": "Gençlerbirliği", "secondTeam": "Malatyaspor" },
+      { "firstTeam": "Kasımpaşa", "secondTeam": "Alanyaspor" }
+    ]
+  }
+]
