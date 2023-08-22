@@ -1,0 +1,242 @@
+[
+    {
+        "name": "t-shirt-1",
+        "type": "t-shirt",
+        "color": "blue",
+        "price": 75,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-1",
+        "type": "t-shirt",
+        "color": "red",
+        "price": 60,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-2",
+        "type": "t-shirt",
+        "color": "green",
+        "price": 85,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-2",
+        "type": "t-shirt",
+        "color": "blue",
+        "price": 90,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-2",
+        "type": "t-shirt",
+        "color": "red",
+        "price": 70,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-3",
+        "type": "t-shirt",
+        "color": "green",
+        "price": 55,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-3",
+        "type": "t-shirt",
+        "color": "blue",
+        "price": 100,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-4",
+        "type": "t-shirt",
+        "color": "red",
+        "price": 65,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-5",
+        "type": "t-shirt",
+        "color": "green",
+        "price": 80,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-5",
+        "type": "t-shirt",
+        "color": "blue",
+        "price": 95,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-6",
+        "type": "t-shirt",
+        "color": "red",
+        "price": 50,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "t-shirt-6",
+        "type": "t-shirt",
+        "color": "green",
+        "price": 110,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "short-1",
+        "type": "short",
+        "color": "blue",
+        "price": 55,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "short-1",
+        "type": "short",
+        "color": "red",
+        "price": 70,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "short-2",
+        "type": "short",
+        "color": "green",
+        "price": 65,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "short-3",
+        "type": "short",
+        "color": "blue",
+        "price": 80,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "short-3",
+        "type": "short",
+        "color": "red",
+        "price": 90,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "short-3",
+        "type": "short",
+        "color": "green",
+        "price": 75,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "short-4",
+        "type": "short",
+        "color": "blue",
+        "price": 60,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "short-4",
+        "type": "short",
+        "color": "red",
+        "price": 85,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "short-5",
+        "type": "short",
+        "color": "green",
+        "price": 70,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "shoes-1",
+        "type": "shoes",
+        "color": "blue",
+        "price": 120,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "shoes-1",
+        "type": "shoes",
+        "color": "red",
+        "price": 150,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "shoes-2",
+        "type": "shoes",
+        "color": "green",
+        "price": 180,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "shoes-3",
+        "type": "shoes",
+        "color": "blue",
+        "price": 160,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "shoes-3",
+        "type": "shoes",
+        "color": "red",
+        "price": 140,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "shoes-4",
+        "type": "shoes",
+        "color": "green",
+        "price": 130,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "shoes-4",
+        "type": "shoes",
+        "color": "blue",
+        "price": 175,
+        "isDiscounted": true,
+        "cart": false
+    },
+    {
+        "name": "shoes-5",
+        "type": "shoes",
+        "color": "red",
+        "price": 200,
+        "isDiscounted": false,
+        "cart": false
+    },
+    {
+        "name": "shoes-6",
+        "type": "shoes",
+        "color": "green",
+        "price": 190,
+        "isDiscounted": true,
+        "cart": false
+    }
+]
