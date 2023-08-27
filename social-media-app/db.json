@@ -1,0 +1,65 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Kutay",
+      "username": "kutay",
+      "password": "kutay"
+    },
+    {
+      "name": "sercan",
+      "username": "sercan1",
+      "password": "sercan123",
+      "id": 2
+    },
+    {
+      "name": "sarp",
+      "username": "sarp1",
+      "password": "sarp123",
+      "id": 3
+    },
+    {
+      "name": "onur",
+      "username": "onur",
+      "password": "onur",
+      "id": 4
+    }
+  ],
+  "post": [
+    {
+      "user_id": 3,
+      "text": "Post 3",
+      "id": 3
+    },
+    {
+      "user_id": 3,
+      "text": "Post 4",
+      "id": 4
+    },
+    {
+      "user_id": 4,
+      "text": "Post 5",
+      "id": 5
+    },
+    {
+      "user_id": 2,
+      "text": "New post for sarper",
+      "id": 7
+    },
+    {
+      "user_id": 4,
+      "text": "Onur Yeni Post",
+      "id": 8
+    },
+    {
+      "user_id": 4,
+      "text": "Onur 3. post",
+      "id": 9
+    },
+    {
+      "user_id": 1,
+      "text": "Kutay first post",
+      "id": 10
+    }
+  ]
+}
